@@ -1,9 +1,6 @@
 var correctNumber = Math.floor(Math.random() * 100) + 1;
 
 
-
-
-
 function checkGuess() {
   let txtu = 'Угадать'
   var guess = document.getElementById("guess").value;
